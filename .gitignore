@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #ignore api
-starter_code/api_keys
+*api_keys
