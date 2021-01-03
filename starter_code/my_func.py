@@ -1,5 +1,6 @@
 # module to caputure functions to use in our application
 import scipy.stats as st
+from matplotlib import pyplot as plt
 
 def lregression(x, y):
 
@@ -8,9 +9,7 @@ def lregression(x, y):
     (slope, intercept, rvalue, pvalue, stderr) = st.linregress(x, y)
     lreg_values = x * slope + intercept
     line_eq = "y = " + str(round(slope,2)) + "x + " + str(round(intercept,2))
-        
-    plt.scatter(x, y)
-    plt.plot(x, lreg_values, "r-")
+   
 
     return line_eq
 
