@@ -131,4 +131,4 @@ dmypy.json
 #ignore api
 starter_code/api_keys.py
 apikeys
-output_data
+output_data/
