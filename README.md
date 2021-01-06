@@ -7,10 +7,12 @@ In this example, you'll be creating a Python script to visualize the weather of 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+![lat_temp](starter_code/output_data/lat_vs_temperature_2021-01-03.png)
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
-![lat_temp](starter_code/output_data/lat_vs_temperature_2021_01_03.png)
+
+
 
 An analysis is presented in the J-notebook for each chart.
 
