@@ -8,6 +8,7 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 * Temperature (F) vs. Latitude
 ![lat_temp](starter_code/output_data/lat_vs_temperature_2021_01_03.png)
+
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
@@ -37,4 +38,4 @@ Your final notebook must:
 
 ## VacationPy
 
-![VacationPy](starter_code/output_data/geomap_heatspots.png)
+![VacationPy](starter_code/output_data/geomap_vacay_spots.png)
