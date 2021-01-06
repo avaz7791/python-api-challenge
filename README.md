@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API Challenge 
 
 ## WeatherPy
 
@@ -7,13 +7,12 @@ In this example, you'll be creating a Python script to visualize the weather of 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+![lat_temp](starter_code/output_data/lat_vs_temperature_2021_01_03.png)
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-After each plot, add a sentence or two explaining what the code is analyzing.
-
-![Equator](starter_code/output_data/geomap_heatspots.png)
+An analysis is presented in the J-notebook for each chart.
 
 The second requirement is to run linear regression on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -37,3 +36,5 @@ Your final notebook must:
 
 
 ## VacationPy
+
+![VacationPy](starter_code/output_data/geomap_heatspots.png)
